@@ -1,0 +1,40 @@
+body {
+  background-color: rgba(0, 187, 255, 0.844);
+	font-family: 'Poppins', sans-serif;
+}
+
+.main-container {
+  min-width: 250px;
+  min-height: 350px;
+}
+
+img {
+  padding-top: 1rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title {
+  display: flex;
+}
+
+h2 {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button-container {
+  display: flex;
+	width: auto;
+  margin-bottom: 1rem;
+}
+
+button {
+	background-color: rgb(255, 212, 2);
+	padding: 1rem;
+	border-radius: 10px;
+	border: none;
+  margin-left: auto;
+  margin-right: auto;
+}
