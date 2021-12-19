@@ -1,0 +1,14 @@
+h1 {
+	font-family: 'Source Sans Pro', sans-serif;
+	text-align: center;
+}
+
+h3 {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Tillana', cursive;
+	text-align: center;
+}
+
+#duck-large {
+	max-width: 200px;
+}
