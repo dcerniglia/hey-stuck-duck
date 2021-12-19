@@ -1,0 +1,12 @@
+{
+	"name": "Stuck Duck",
+	"description": "Where to get when you get stuck",
+	"version": "1.0",
+	"manifest_version": 3,
+	"permissions": ["tabs"],
+	"action": {
+		"default_title": "Stuck Duck",
+		"default_icon": "./rubber-duck.png",
+		"default_popup": "./popup.html"
+	}
+}
